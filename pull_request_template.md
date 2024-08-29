@@ -1,25 +1,12 @@
-Title: Feature/add-user-authentication
+## Title
+-  <Feature/Fix>/<Name>
 
-Description:
+## Describe your changes
 
-This pull request adds user authentication functionality to the application. Users can now:
+## Issue ticket number and link
 
-Sign up with email and password
-Log in using their credentials
-Securely access protected areas of the application
-How to test:
-
-Clone the repository and install dependencies
-Run the application locally
-Go to the login page
-Click on "Sign Up" and create a new user account
-Log in using the new credentials
-Verify that you can access protected features
-Screenshots:
-
-[Add screenshots of the login/signup pages and any protected pages]
-Additional information:
-
-User data is stored in a secure database.
-Password hashing is implemented for enhanced security.
-Currently, only email/password authentication is supported. Additional providers (e.g., Google, social logins) can be added in future iterations.
+## Checklist before requesting a review
+- [ ] I have performed a self-review of my code
+- [ ] I have review the types
+- [ ] I have review that the lint check is performed
+- [ ] I have reviwed the changes after the build
