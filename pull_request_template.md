@@ -1,5 +1,5 @@
 ## Title
--  <Feature/Fix>/<Name>
+-  <Feature/Fix> / <Name>
 
 ## Describe your changes
 
