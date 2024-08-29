@@ -7,6 +7,7 @@
 
 ## Checklist before requesting a review
 - [ ] I have performed a self-review of my code
-- [ ] I have review the types
-- [ ] I have review that the lint check is performed
-- [ ] I have reviwed the changes after the build
+- [ ] I have reviwed the type checks
+- [ ] I have reviwed the lint checks is performed
+- [ ] I have reviwed the changes after build
+- [ ] I have tested the changes of my code using postman (Fro Backend Only)
