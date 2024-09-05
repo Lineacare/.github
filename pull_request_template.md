@@ -1,6 +1,3 @@
-## Title
--  <Feature/Fix> / <Name>
-
 ## Describe your changes
 
 ## Issue ticket number and link
